@@ -2,10 +2,6 @@
 
 ---
 
-## 🎬 Demo Animation
-
----
-
 ## 📌 Overview
 
 The **Bisection Method** is a numerical algorithm used to find the root of a function by repeatedly dividing an interval and selecting the subinterval where the sign changes.
@@ -64,6 +60,9 @@ Root found: 1.5215
 ---
 
 ## 📸 Real Output
+<p align="center">
+  <img src="images/output.png" width="650">
+</p>
 
 ---
 
